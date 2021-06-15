@@ -28,7 +28,7 @@ Visualization of the coronavirus "flattening of the curve" based on the SIR mode
 * **Input:** number of infections on day 0 - March 29 2020, typical recovery time in hours, total population of the United States
 * **Output:** SIR model plots
 
-# [Project 3: Hurricane Data Analysis](https://github.com/NateRice/hurricane)
+# [Project 3: Hurricane Data Analysis & Visualization](https://github.com/NateRice/hurricane)
 ![alt text](hurricaneLandfall.jpg)
 
 
