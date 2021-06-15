@@ -27,3 +27,13 @@ Visualization of the coronavirus "flattening of the curve" based on the SIR mode
 * **Python libraries used:** pyplot, numpy
 * **Input:** number of infections on day 0 - March 29 2020, typical recovery time in hours, total population of the United States
 * **Output:** SIR model plots
+
+# [Project 3: Hurricane Data Analysis](https://github.com/NateRice/hurricane)
+![alt text](rnot1.7.png)![alt text](rnot4.png)![alt text](rnot10.png)
+
+
+Data analysis and visualization of historical hurricane data using python
+* **Programming Language:** Python
+* **Python libraries used:** pandas, pyplot, numpy
+* **Input:** historical hurricane dataset
+* **Output:** visualizations
