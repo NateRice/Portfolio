@@ -19,7 +19,7 @@ This project is an optimization tool for NBA daily fantasy, specifically DraftKi
 * **Output:** Player Dataframes, player-per-game floor-avg-ceiling plots
 
 # [Project 2: "Flattening the Curve": How to stop the spread of infectious diseases such as the coronavirus](https://github.com/NateRice/flattening_the_curve)
-![alt text](rnot1.7.png)![alt text](rnot4.png)![alt text](rnot10.png)
+![alt text](rnot1.7.png)![alt text](rnot10.png)
 
 
 Visualization of the coronavirus "flattening of the curve" based on the SIR model of disease spread used in the study of epidemiology. Coded in Python using pyplot and numpy
@@ -29,7 +29,7 @@ Visualization of the coronavirus "flattening of the curve" based on the SIR mode
 * **Output:** SIR model plots
 
 # [Project 3: Hurricane Data Analysis](https://github.com/NateRice/hurricane)
-![alt text](rnot1.7.png)![alt text](rnot4.png)![alt text](rnot10.png)
+![alt text](hurricaneLandfall.jpg)
 
 
 Data analysis and visualization of historical hurricane data using python
