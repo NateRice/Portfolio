@@ -18,12 +18,12 @@ This project is an optimization tool for NBA daily fantasy, specifically DraftKi
 * **Input:** stats.nba.com, DraftKings, espn.com
 * **Output:** Player Dataframes, player-per-game floor-avg-ceiling plots
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+# [Project 2: "Flattening the Curve": How to stop the spread of infectious diseases such as the coronavirus](https://github.com/NateRice/flattening_the_curve)
+![alt text](https://github.com/NateRice/flattening_the_curve/blob/master/ftc_files/rnot1.7.png)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+Visualization of the coronavirus "flattening of the curve" based on the SIR model of disease spread used in the study of epidemiology. Coded in Python using pyplot and numpy
+* **Programming Language:** Python
+* **Python libraries used:** pyplot, numpy
+* **Input:** number of infections on day 0 - March 29 2020, typical recovery time in hours, total population of the United States
+* **Output:** SIR model plots
