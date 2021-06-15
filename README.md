@@ -1,7 +1,7 @@
 # Nathan R. Rice
 *Data Scientist*
 
-# Education
+## Education
 * Bachelors of Science (Data Science), Masters of Science (Data Science Accelerated BS/MS), *University of Massachusetts Dartmouth*, 2019-2022
 
 # [Project 1: NBA Daily Fantasy](https://github.com/NateRice/NBADailyFantasy)
